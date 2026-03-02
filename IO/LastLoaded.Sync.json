@@ -1,0 +1,51 @@
+{
+  "IsSynced": false,
+  "SyncMode": 0,
+  "InSyncWithRuntime": false,
+  "ApplicationType": "io",
+  "Configuration": "appdata",
+  "Solution": "DefaultSolution",
+  "ControllerGuid": "97004c8d-6874-48e2-8e73-b60bf38b8c2f",
+  "LastChange": 639065040524069474,
+  "MachineName": "DESKTOP-OP394VP",
+  "UserName": "teijo",
+  "ProjectCompleteFilename": "C:\\PROJECTS\\PROHYDRO\\TRAILER_RIGG\\PRESS\\SW\\IO\\PRESS_IO.project",
+  "CompilerVersion": {
+    "Major": 3,
+    "Minor": 5,
+    "Build": 20,
+    "Revision": 60,
+    "MajorRevision": 0,
+    "MinorRevision": 60
+  },
+  "OwnVersion": {
+    "Major": 1,
+    "Minor": 2,
+    "Build": 0,
+    "Revision": 0,
+    "MajorRevision": 0,
+    "MinorRevision": 0
+  },
+  "ProductAdditionalFolder": "Default",
+  "ProductProfileName": "ctrlX IO 3.6.3",
+  "ProductId": "ctrlx-io-engineering",
+  "ProductVersion": "3.6.3",
+  "ProductVersionText": "3.6.3",
+  "SyncModeSave": false,
+  "SyncModeDownload": false,
+  "SyncModeAsk": false,
+  "SyncAfterBootApplication": false,
+  "SyncOnOpen": false,
+  "UserMetaData": {
+    "DESKTOP-OP394VP:teijo": {
+      "MachineName": "DESKTOP-OP394VP",
+      "UserName": "teijo",
+      "ProjectCompleteFilename": "C:\\PROJECTS\\PROHYDRO\\TRAILER_RIGG\\PRESS\\SW\\IO\\PRESS_IO.project"
+    }
+  },
+  "CompileinfoChecksum": null,
+  "SyncDescription": false,
+  "DeviceId": "1001 0090",
+  "DeviceVersion": "3.6.0.0",
+  "UseIoHierachy": true
+}
