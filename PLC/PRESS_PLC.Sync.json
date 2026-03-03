@@ -6,10 +6,10 @@
   "Configuration": "appdata",
   "Solution": null,
   "ControllerGuid": "d12bf2f4-4228-47ea-b4f1-ada896573de5",
-  "LastChange": 639065045714053420,
-  "MachineName": "DESKTOP-OP394VP",
-  "UserName": "teijo",
-  "ProjectCompleteFilename": "C:\\PROJECTS\\PROHYDRO\\TRAILER_RIGG\\PRESS\\SW\\PLC\\PRESS_PLC.project",
+  "LastChange": 639081322907166447,
+  "MachineName": "THINKPAD-JUHA",
+  "UserName": "JuhaSalmi",
+  "ProjectCompleteFilename": "C:\\Projects\\Asiakas\\ProHydro\\TrailerRigg\\Press\\PLC\\PRESS_PLC.project",
   "CompilerVersion": {
     "Major": 3,
     "Minor": 5,
@@ -41,6 +41,11 @@
       "MachineName": "DESKTOP-OP394VP",
       "UserName": "teijo",
       "ProjectCompleteFilename": "C:\\PROJECTS\\PROHYDRO\\TRAILER_RIGG\\PRESS\\SW\\PLC\\PRESS_PLC.project"
+    },
+    "THINKPAD-JUHA:JuhaSalmi": {
+      "MachineName": "THINKPAD-JUHA",
+      "UserName": "JuhaSalmi",
+      "ProjectCompleteFilename": "C:\\Projects\\Asiakas\\ProHydro\\TrailerRigg\\Press\\PLC\\PRESS_PLC.project"
     }
   },
   "CompileinfoChecksum": null,
