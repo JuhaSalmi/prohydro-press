@@ -646,21 +646,6 @@
                   "StructuralItems": []
                 },
                 {
-                  "Name": "NAVI",
-                  "IconName": null,
-                  "EcadId": null,
-                  "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
-                  "Type": 0,
-                  "Id": null,
-                  "ModuleId": null,
-                  "Version": null,
-                  "ObjectGuid": "69266fc2-a58e-4f12-85a5-c71b07c941f8",
-                  "SlotIndex": 0,
-                  "Inputs": null,
-                  "Outputs": null,
-                  "StructuralItems": []
-                },
-                {
                   "Name": "Pages",
                   "IconName": null,
                   "EcadId": null,
@@ -699,6 +684,21 @@
                       "ModuleId": null,
                       "Version": null,
                       "ObjectGuid": "dce7cf88-dc08-448b-b278-febe0744fa00",
+                      "SlotIndex": 0,
+                      "Inputs": null,
+                      "Outputs": null,
+                      "StructuralItems": []
+                    },
+                    {
+                      "Name": "NAVI",
+                      "IconName": null,
+                      "EcadId": null,
+                      "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
+                      "Type": 0,
+                      "Id": null,
+                      "ModuleId": null,
+                      "Version": null,
+                      "ObjectGuid": "69266fc2-a58e-4f12-85a5-c71b07c941f8",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
