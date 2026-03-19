@@ -1,0 +1,7 @@
+Id;Default;EN;FI
+0;Safety sensor bypassed;Safety sensor bypassed;Turvavalokenno ohitettu
+1;Gluing machine and laminate machine bypassed;Gluing machine and laminate machine bypassed;Liimakone tai laminoiti kone ohitettu
+2;Gluind machine. Risk of collision or communication loss;Gluind machine: Risk of collision or communication loss;Liimakone: Törmäysvaara tai kommunikointi virhe
+3;Move the lower frame down;Move the lower frame down;Laske alempi kehä
+4;Laminate machine is not home position$T;Laminate machine is not home position$T;Laminointi kone ei ole kotona
+;;;

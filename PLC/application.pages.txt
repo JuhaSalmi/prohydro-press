@@ -1,0 +1,8 @@
+Id;Default;EN;FI
+0;MAIN;;
+1;MANUAL;;
+2;FRAMES;;
+3;VACUUM;;
+4;ALARMS;;
+5;HELP;;
+;;;
