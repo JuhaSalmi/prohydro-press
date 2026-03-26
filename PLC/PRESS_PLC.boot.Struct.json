@@ -4,7 +4,7 @@
   "EcadId": "",
   "TypeName": "_3S.CoDeSys.DeviceObject.DeviceObject",
   "Type": 4096,
-  "Id": "1001 0080",
+  "Id": "1001 0081",
   "ModuleId": null,
   "Version": "3.6.3.0",
   "ObjectGuid": "d12bf2f4-4228-47ea-b4f1-ada896573de5",
@@ -293,6 +293,21 @@
                   "Inputs": null,
                   "Outputs": null,
                   "StructuralItems": []
+                },
+                {
+                  "Name": "Recipe Manager",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.RecipeManObject.RecipeManObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "f3b64163-fa49-4b91-b97e-91fdb10b98b8",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
                 }
               ]
             },
@@ -333,7 +348,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "fb97dc79-206d-4169-8a36-61e18b692582",
+                      "ObjectGuid": "66a2f120-f7f9-4117-9385-c7afb1ea1b6a",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -364,7 +379,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "27eab887-d1f7-4255-83de-2741438430fe",
+                      "ObjectGuid": "405793a3-90d5-4dd3-bcd1-f0f59d756a72",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -733,6 +748,37 @@
                       "Inputs": null,
                       "Outputs": null,
                       "StructuralItems": []
+                    },
+                    {
+                      "Name": "Kehat",
+                      "IconName": null,
+                      "EcadId": null,
+                      "TypeName": "_3S.CoDeSys.DefaultNavigators.FolderObject",
+                      "Type": 0,
+                      "Id": null,
+                      "ModuleId": null,
+                      "Version": null,
+                      "ObjectGuid": "dcc24dc9-4020-41a5-81c0-9dcd4593c1e4",
+                      "SlotIndex": 0,
+                      "Inputs": null,
+                      "Outputs": null,
+                      "StructuralItems": [
+                        {
+                          "Name": "Keha",
+                          "IconName": null,
+                          "EcadId": null,
+                          "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
+                          "Type": 0,
+                          "Id": null,
+                          "ModuleId": null,
+                          "Version": null,
+                          "ObjectGuid": "31c434ff-a950-4ed5-b0cc-0bc58d13007d",
+                          "SlotIndex": 0,
+                          "Inputs": null,
+                          "Outputs": null,
+                          "StructuralItems": []
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1033,6 +1079,21 @@
                   "ModuleId": null,
                   "Version": null,
                   "ObjectGuid": "75fda21a-e731-449e-ab43-e13d6a6af485",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
+                },
+                {
+                  "Name": "ParametersStruc",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.DUTObject.DUTObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "7d1ddb0a-d683-4f14-a6ef-c069310719e9",
                   "SlotIndex": 0,
                   "Inputs": null,
                   "Outputs": null,
