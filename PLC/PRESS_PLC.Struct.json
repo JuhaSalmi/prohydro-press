@@ -293,21 +293,6 @@
                   "Inputs": null,
                   "Outputs": null,
                   "StructuralItems": []
-                },
-                {
-                  "Name": "Recipe Manager",
-                  "IconName": null,
-                  "EcadId": null,
-                  "TypeName": "_3S.CoDeSys.RecipeManObject.RecipeManObject",
-                  "Type": 0,
-                  "Id": null,
-                  "ModuleId": null,
-                  "Version": null,
-                  "ObjectGuid": "f3b64163-fa49-4b91-b97e-91fdb10b98b8",
-                  "SlotIndex": 0,
-                  "Inputs": null,
-                  "Outputs": null,
-                  "StructuralItems": []
                 }
               ]
             },
@@ -1144,6 +1129,36 @@
                   "Inputs": null,
                   "Outputs": null,
                   "StructuralItems": []
+                },
+                {
+                  "Name": "Recipe Manager",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.RecipeManObject.RecipeManObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "f3b64163-fa49-4b91-b97e-91fdb10b98b8",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
+                },
+                {
+                  "Name": "Constants",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.GVLObject.GVLObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "d18ac74e-afcf-46c4-90b6-5b97dede94ed",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
                 }
               ]
             },
@@ -1200,21 +1215,6 @@
                       "ModuleId": null,
                       "Version": null,
                       "ObjectGuid": "d4e50491-03df-40c2-8af6-d83df828cacc",
-                      "SlotIndex": 0,
-                      "Inputs": null,
-                      "Outputs": null,
-                      "StructuralItems": []
-                    },
-                    {
-                      "Name": "VisuNext",
-                      "IconName": null,
-                      "EcadId": null,
-                      "TypeName": "_3S.CoDeSys.MethodObject.POUMethodObject",
-                      "Type": 0,
-                      "Id": null,
-                      "ModuleId": null,
-                      "Version": null,
-                      "ObjectGuid": "389df91e-001e-47f4-95ff-8ec9be5ed568",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
