@@ -616,21 +616,6 @@
               "Outputs": null,
               "StructuralItems": [
                 {
-                  "Name": "MAIN",
-                  "IconName": null,
-                  "EcadId": null,
-                  "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
-                  "Type": 0,
-                  "Id": null,
-                  "ModuleId": null,
-                  "Version": null,
-                  "ObjectGuid": "2c37f640-75aa-469f-a40d-408ba41be286",
-                  "SlotIndex": 0,
-                  "Inputs": null,
-                  "Outputs": null,
-                  "StructuralItems": []
-                },
-                {
                   "Name": "ImagePool",
                   "IconName": null,
                   "EcadId": null,
@@ -936,51 +921,6 @@
                   "StructuralItems": []
                 },
                 {
-                  "Name": "VACUUM",
-                  "IconName": null,
-                  "EcadId": null,
-                  "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
-                  "Type": 0,
-                  "Id": null,
-                  "ModuleId": null,
-                  "Version": null,
-                  "ObjectGuid": "0eb72e88-fea9-451a-a9c0-81beffb87f85",
-                  "SlotIndex": 0,
-                  "Inputs": null,
-                  "Outputs": null,
-                  "StructuralItems": []
-                },
-                {
-                  "Name": "ALARM",
-                  "IconName": null,
-                  "EcadId": null,
-                  "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
-                  "Type": 0,
-                  "Id": null,
-                  "ModuleId": null,
-                  "Version": null,
-                  "ObjectGuid": "fc762eb6-bc78-4c66-8c0d-057faf1ee2d2",
-                  "SlotIndex": 0,
-                  "Inputs": null,
-                  "Outputs": null,
-                  "StructuralItems": []
-                },
-                {
-                  "Name": "VACUUM_TIMES",
-                  "IconName": null,
-                  "EcadId": null,
-                  "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
-                  "Type": 0,
-                  "Id": null,
-                  "ModuleId": null,
-                  "Version": null,
-                  "ObjectGuid": "b4eda38d-318f-47af-aa57-eea6c85be5a3",
-                  "SlotIndex": 0,
-                  "Inputs": null,
-                  "Outputs": null,
-                  "StructuralItems": []
-                },
-                {
                   "Name": "MAIN_OP2",
                   "IconName": null,
                   "EcadId": null,
@@ -996,7 +936,7 @@
                   "StructuralItems": []
                 },
                 {
-                  "Name": "MANUAL",
+                  "Name": "MAIN_OP1",
                   "IconName": null,
                   "EcadId": null,
                   "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
@@ -1004,7 +944,7 @@
                   "Id": null,
                   "ModuleId": null,
                   "Version": null,
-                  "ObjectGuid": "97f03b50-8a9b-4385-954d-48998a246cde",
+                  "ObjectGuid": "c55218e5-eda6-41d6-ba2a-596a615c5527",
                   "SlotIndex": 0,
                   "Inputs": null,
                   "Outputs": null,
