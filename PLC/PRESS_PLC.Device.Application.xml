@@ -5,5 +5,19 @@
     <SymbolConfigObject version="4.5.2.0" runtimeid="3.5.20.40" libversion="4.5.0.0" compiler="3.5.20.60" lmm="3.5.20.60" profile="ctrlX PLC 3.6.3+" settings="SupportOPCUA, IncludeExecutables, XmlIncludeComments, XmlIncludeExecutables, LayoutCalculator=CompatibilityClientSideLayoutCalculator" />
     <ProjectInfo name="PRESS_PLC" devicename="Device" appname="Application" />
   </Header>
-  <TypeList />
+  <TypeList>
+    <TypeSimple name="T_BOOL" size="1" swapsize="0" typeclass="Bool" iecname="BOOL" />
+    <TypeSimple name="T_INT" size="2" swapsize="2" typeclass="Int" iecname="INT" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="NodeRed">
+        <Node name="Counter" type="T_INT" access="ReadWrite" />
+        <Node name="CounterOn" type="T_BOOL" access="ReadWrite" />
+        <Node name="Init" type="T_BOOL" access="ReadWrite" />
+        <Node name="Start" type="T_BOOL" access="ReadWrite" />
+        <Node name="Stop" type="T_BOOL" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
 </Symbolconfiguration>
