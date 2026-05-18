@@ -8,9 +8,22 @@
   <TypeList>
     <TypeSimple name="T_BOOL" size="1" swapsize="0" typeclass="Bool" iecname="BOOL" />
     <TypeSimple name="T_INT" size="2" swapsize="2" typeclass="Int" iecname="INT" />
+    <TypeSimple name="T_REAL" size="4" swapsize="4" typeclass="Real" iecname="REAL" />
+    <TypeSimple name="T_STRING_32_" size="33" swapsize="0" typeclass="String" iecname="STRING(32)" />
+    <TypeUserDef name="T_ReportStruct" size="80" nativesize="80" typeclass="Userdef" pouclass="STRUCTURE" iecname="ReportStruct">
+      <UserDefElement iecname="User" type="T_STRING_32_" byteoffset="0" vartype="VAR" access="ReadWrite" />
+      <UserDefElement iecname="MachineNr" type="T_INT" byteoffset="34" vartype="VAR" access="ReadWrite" />
+      <UserDefElement iecname="TableNr" type="T_INT" byteoffset="36" vartype="VAR" access="ReadWrite" />
+      <UserDefElement iecname="Event" type="T_STRING_32_" byteoffset="38" vartype="VAR" access="ReadWrite" />
+      <UserDefElement iecname="Temperature" type="T_REAL" byteoffset="72" vartype="VAR" access="ReadWrite" />
+      <UserDefElement iecname="Humidity" type="T_REAL" byteoffset="76" vartype="VAR" access="ReadWrite" />
+    </TypeUserDef>
   </TypeList>
   <NodeList>
     <Node name="Application">
+      <Node name="HMI">
+        <Node name="Report" type="T_ReportStruct" access="ReadWrite" />
+      </Node>
       <Node name="NodeRed">
         <Node name="Counter" type="T_INT" access="ReadWrite" />
         <Node name="CounterOn" type="T_BOOL" access="ReadWrite" />
