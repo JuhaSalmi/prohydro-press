@@ -7,9 +7,9 @@
   "Solution": "DefaultSolution",
   "ControllerGuid": "97004c8d-6874-48e2-8e73-b60bf38b8c2f",
   "LastChange": 639065040524069474,
-  "MachineName": "DESKTOP-OP394VP",
-  "UserName": "teijo",
-  "ProjectCompleteFilename": "C:\\PROJECTS\\PROHYDRO\\TRAILER_RIGG\\PRESS\\SW\\IO\\PRESS_IO.project",
+  "MachineName": "THINKPAD-JUHA",
+  "UserName": "JuhaSalmi",
+  "ProjectCompleteFilename": "C:\\Projects\\Asiakas\\ProHydro\\TrailerRigg\\Press\\IO\\PRESS_IO.project",
   "CompilerVersion": {
     "Major": 3,
     "Minor": 5,
@@ -41,6 +41,11 @@
       "MachineName": "DESKTOP-OP394VP",
       "UserName": "teijo",
       "ProjectCompleteFilename": "C:\\PROJECTS\\PROHYDRO\\TRAILER_RIGG\\PRESS\\SW\\IO\\PRESS_IO.project"
+    },
+    "THINKPAD-JUHA:JuhaSalmi": {
+      "MachineName": "THINKPAD-JUHA",
+      "UserName": "JuhaSalmi",
+      "ProjectCompleteFilename": "C:\\Projects\\Asiakas\\ProHydro\\TrailerRigg\\Press\\IO\\PRESS_IO.project"
     }
   },
   "CompileinfoChecksum": null,
