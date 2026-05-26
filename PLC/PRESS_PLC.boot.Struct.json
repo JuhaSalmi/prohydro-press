@@ -293,6 +293,21 @@
                   "Inputs": null,
                   "Outputs": null,
                   "StructuralItems": []
+                },
+                {
+                  "Name": "ErrorHandling",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.POUObject.POUObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "da741736-78fb-47b5-ad70-6c08483b4755",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
                 }
               ]
             },
@@ -333,7 +348,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "a8cc1dfa-cbe3-430d-9cee-fd68395a214c",
+                      "ObjectGuid": "eb0cf656-16ac-4945-bd64-5bad7591d46a",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -364,7 +379,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "2480a861-e2df-4328-b047-6a9660adf7ab",
+                      "ObjectGuid": "5313aea5-1bda-4217-8d87-f007274f3858",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
