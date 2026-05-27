@@ -348,7 +348,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "eb0cf656-16ac-4945-bd64-5bad7591d46a",
+                      "ObjectGuid": "b90db59c-3e72-4978-8fb4-f9c8bcaa2eb4",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -379,7 +379,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "5313aea5-1bda-4217-8d87-f007274f3858",
+                      "ObjectGuid": "f154bbf7-86f2-45fd-bd15-b20fb395715b",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -2729,7 +2729,7 @@
                         },
                         {
                           "Id": 2952921113,
-                          "Name": "Application.DO_KEHA_YLOS_6",
+                          "Name": "Application.DO_KEHA_ALAS_6",
                           "IecAddress": "%QX7.1",
                           "Description": "",
                           "Descriptions": null
