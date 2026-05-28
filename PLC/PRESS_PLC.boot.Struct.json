@@ -1988,7 +1988,7 @@
                         },
                         {
                           "Id": 2952855581,
-                          "Name": "Application.DI_PAIKANNUSRAJA_NP1_SEIS_1",
+                          "Name": "",
                           "IecAddress": "%IX7.5",
                           "Description": "",
                           "Descriptions": []
@@ -2025,7 +2025,7 @@
                       "Inputs": [
                         {
                           "Id": 2952855568,
-                          "Name": "Application.DI_PAIKANNUSRAJA_NP2_SEIS_1",
+                          "Name": "",
                           "IecAddress": "%IX8.0",
                           "Description": "",
                           "Descriptions": []
