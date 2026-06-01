@@ -3800,14 +3800,14 @@
                         },
                         {
                           "Id": 2952921106,
-                          "Name": "",
+                          "Name": "Application.OUTPUTS.AnalogOutSpare1",
                           "IecAddress": "%QW22",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921107,
-                          "Name": "",
+                          "Name": "Application.OUTPUTS.AnalogOutSpare2",
                           "IecAddress": "%QW24",
                           "Description": "",
                           "Descriptions": null
@@ -3901,21 +3901,21 @@
                       "Outputs": [
                         {
                           "Id": 2952921104,
-                          "Name": "",
+                          "Name": "Application.OUTPUTS.AnalogOutSpare3",
                           "IecAddress": "%QW26",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921105,
-                          "Name": "",
+                          "Name": "Application.OUTPUTS.AnalogOutSpare4",
                           "IecAddress": "%QW28",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921106,
-                          "Name": "",
+                          "Name": "Application.OUTPUTS.AnalogOutSpare5",
                           "IecAddress": "%QW30",
                           "Description": "",
                           "Descriptions": null
