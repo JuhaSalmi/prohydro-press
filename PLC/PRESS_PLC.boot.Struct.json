@@ -1340,6 +1340,21 @@
                       "Inputs": null,
                       "Outputs": null,
                       "StructuralItems": []
+                    },
+                    {
+                      "Name": "SettingsFrame",
+                      "IconName": null,
+                      "EcadId": null,
+                      "TypeName": "_3S.CoDeSys.VisualObject.VisualObject",
+                      "Type": 0,
+                      "Id": null,
+                      "ModuleId": null,
+                      "Version": null,
+                      "ObjectGuid": "bdaab1e6-e580-4648-8d8d-b1f6caef574e",
+                      "SlotIndex": 0,
+                      "Inputs": null,
+                      "Outputs": null,
+                      "StructuralItems": []
                     }
                   ]
                 },
