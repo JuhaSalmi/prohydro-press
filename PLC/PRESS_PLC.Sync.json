@@ -1,7 +1,7 @@
 {
   "IsSynced": false,
   "SyncMode": 0,
-  "InSyncWithRuntime": true,
+  "InSyncWithRuntime": false,
   "ApplicationType": "plc",
   "Configuration": "appdata",
   "Solution": "DefaultSolution",
