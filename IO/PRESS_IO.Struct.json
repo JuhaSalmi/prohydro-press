@@ -2448,6 +2448,248 @@
                     }
                   ],
                   "StructuralItems": []
+                },
+                {
+                  "Name": "WDGA_EC1",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.DeviceObject.DeviceObject",
+                  "Type": 65,
+                  "Id": "21F_5744474100010002",
+                  "ModuleId": null,
+                  "Version": "Revision=16#00010002",
+                  "ObjectGuid": "133d17f4-50bc-449a-9770-82a18d28dd24",
+                  "SlotIndex": 0,
+                  "Inputs": [
+                    {
+                      "Id": 33554434,
+                      "Name": "",
+                      "IecAddress": "%IL104",
+                      "Description": "High resolution position value",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554435,
+                      "Name": "",
+                      "IecAddress": "%IW112",
+                      "Description": "Speed value",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554436,
+                      "Name": "",
+                      "IecAddress": "%IW114",
+                      "Description": "Alarms",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554437,
+                      "Name": "",
+                      "IecAddress": "%IW116",
+                      "Description": "Warnings",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554438,
+                      "Name": "",
+                      "IecAddress": "%IL120",
+                      "Description": "High resolution position raw value",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554439,
+                      "Name": "",
+                      "IecAddress": "%IB128",
+                      "Description": "CAM state",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554440,
+                      "Name": "",
+                      "IecAddress": "%IB129",
+                      "Description": "High resolution work area state",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554441,
+                      "Name": "",
+                      "IecAddress": "%IX130.0",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554442,
+                      "Name": "",
+                      "IecAddress": "%IX130.1",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554443,
+                      "Name": "",
+                      "IecAddress": "%IX130.2",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554444,
+                      "Name": "",
+                      "IecAddress": "%IX130.3",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554445,
+                      "Name": "",
+                      "IecAddress": "%IX130.4",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554446,
+                      "Name": "",
+                      "IecAddress": "%IX130.5",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554447,
+                      "Name": "",
+                      "IecAddress": "%IX130.6",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554448,
+                      "Name": "",
+                      "IecAddress": "%IX130.7",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    }
+                  ],
+                  "Outputs": null,
+                  "StructuralItems": []
+                },
+                {
+                  "Name": "WDGA_EC2",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.DeviceObject.DeviceObject",
+                  "Type": 65,
+                  "Id": "21F_5744474100010002",
+                  "ModuleId": null,
+                  "Version": "Revision=16#00010002",
+                  "ObjectGuid": "30804d10-7123-427c-b550-224f6854a7aa",
+                  "SlotIndex": 0,
+                  "Inputs": [
+                    {
+                      "Id": 33554434,
+                      "Name": "",
+                      "IecAddress": "%IL136",
+                      "Description": "High resolution position value",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554435,
+                      "Name": "",
+                      "IecAddress": "%IW144",
+                      "Description": "Speed value",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554436,
+                      "Name": "",
+                      "IecAddress": "%IW146",
+                      "Description": "Alarms",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554437,
+                      "Name": "",
+                      "IecAddress": "%IW148",
+                      "Description": "Warnings",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554438,
+                      "Name": "",
+                      "IecAddress": "%IL152",
+                      "Description": "High resolution position raw value",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554439,
+                      "Name": "",
+                      "IecAddress": "%IB160",
+                      "Description": "CAM state",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554440,
+                      "Name": "",
+                      "IecAddress": "%IB161",
+                      "Description": "High resolution work area state",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554441,
+                      "Name": "",
+                      "IecAddress": "%IX162.0",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554442,
+                      "Name": "",
+                      "IecAddress": "%IX162.1",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554443,
+                      "Name": "",
+                      "IecAddress": "%IX162.2",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554444,
+                      "Name": "",
+                      "IecAddress": "%IX162.3",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554445,
+                      "Name": "",
+                      "IecAddress": "%IX162.4",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554446,
+                      "Name": "",
+                      "IecAddress": "%IX162.5",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554447,
+                      "Name": "",
+                      "IecAddress": "%IX162.6",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    },
+                    {
+                      "Id": 33554448,
+                      "Name": "",
+                      "IecAddress": "%IX162.7",
+                      "Description": "New message available",
+                      "Descriptions": []
+                    }
+                  ],
+                  "Outputs": null,
+                  "StructuralItems": []
                 }
               ]
             }
