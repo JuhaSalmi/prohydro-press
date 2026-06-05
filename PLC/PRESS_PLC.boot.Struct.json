@@ -323,6 +323,21 @@
                   "Inputs": null,
                   "Outputs": null,
                   "StructuralItems": []
+                },
+                {
+                  "Name": "SAHAN_KULJETTIMET",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.POUObject.POUObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "a0a17068-2074-4a0b-909f-47144859aa69",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
                 }
               ]
             },
@@ -363,7 +378,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "168a53b3-c5eb-40c2-89c7-df250ceba9f8",
+                      "ObjectGuid": "f0e92648-2ada-48aa-8dc8-8c3fa08908c3",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -394,7 +409,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "1d2dff84-6bfe-4560-ad60-2def7bf193c6",
+                      "ObjectGuid": "b20fe77e-de44-4ad1-96ee-999d9e8cbb50",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -1535,6 +1550,21 @@
                   "ModuleId": null,
                   "Version": null,
                   "ObjectGuid": "4aea48a9-ff09-47c3-a902-b7ef61e6f7ac",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
+                },
+                {
+                  "Name": "FB_EncoderScaler",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.POUObject.POUObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "7370d1ab-23d6-421c-a907-e09f503cda3b",
                   "SlotIndex": 0,
                   "Inputs": null,
                   "Outputs": null,
@@ -2884,49 +2914,49 @@
                       "Outputs": [
                         {
                           "Id": 2952921104,
-                          "Name": "",
+                          "Name": "Application.DO_SAHA_KULJ_1_ETEEN",
                           "IecAddress": "%QX8.0",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921105,
-                          "Name": "",
+                          "Name": "Application.DO_SAHA_KULJ_1_TAAKSE",
                           "IecAddress": "%QX8.1",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921106,
-                          "Name": "",
+                          "Name": "Application.DO_SAHA_KULJETTIMET_NOPEUSVALINTA",
                           "IecAddress": "%QX8.2",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921107,
-                          "Name": "",
+                          "Name": "Application.DO_SAHA_KULJ_2_ETEEN",
                           "IecAddress": "%QX8.3",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921108,
-                          "Name": "",
+                          "Name": "Application.DO_SAHA_KULJ_2_TAAKSE",
                           "IecAddress": "%QX8.4",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921109,
-                          "Name": "",
+                          "Name": "Application.DO_POISTO_KULJ_ETEEN",
                           "IecAddress": "%QX8.5",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921110,
-                          "Name": "",
+                          "Name": "Application.DO_POISTO_KULJ_TAAKSE",
                           "IecAddress": "%QX8.6",
                           "Description": "",
                           "Descriptions": null
@@ -3890,14 +3920,14 @@
                         },
                         {
                           "Id": 2952921106,
-                          "Name": "Application.OUTPUTS.AnalogOutSpare1",
+                          "Name": "Application.AO_SAHA_KULJ_1_NOPEUS",
                           "IecAddress": "%QW22",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921107,
-                          "Name": "Application.OUTPUTS.AnalogOutSpare2",
+                          "Name": "Application.AO_SAHA_KULJ_2_NOPEUS",
                           "IecAddress": "%QW24",
                           "Description": "",
                           "Descriptions": null
@@ -3991,7 +4021,7 @@
                       "Outputs": [
                         {
                           "Id": 2952921104,
-                          "Name": "Application.OUTPUTS.AnalogOutSpare3",
+                          "Name": "Application.AO_POISTO_KULJ_NOPEUS",
                           "IecAddress": "%QW26",
                           "Description": "",
                           "Descriptions": null

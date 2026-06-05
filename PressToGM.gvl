@@ -1,0 +1,42 @@
+<GVL>
+  <Declarations><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL
+
+	Watchdog_CNT : INT;
+	Temperature : REAL;	
+	Humidity : REAL;
+	ResetOpenTime : BOOL;
+	TO_REPORT_FloorToSave : INT;
+	TO_REPORT_Save : BOOL;
+	TO_REPORT_Floor : INT;	
+	TO_REPORT_Opentime : INT;	
+	TO_REPORT_Presstime : INT;	
+	TO_REPORT_OpentimeAlarm : BOOL;
+	TO_REPORT_OpenTimeAlarmFloor : INT;
+	TO_REPORT_OpenTimeAlarmMinutes : INT;
+	
+	TO_REPORT_pressAlarm : BOOL;
+	TO_REPORT_PressAlarmFloor : INT;
+	TO_REPORT_PressAlarmMinutes : INT;
+	TO_REPORT_PressAlarmVacuum : REAL;
+	
+	
+END_VAR]]></Declarations>
+  <NetvarSettings Protocol="UDP">
+    <ListIdentifier>2</ListIdentifier>
+    <Pack>True</Pack>
+    <Checksum>False</Checksum>
+    <Acknowledge>False</Acknowledge>
+    <CyclicTransmission>True</CyclicTransmission>
+    <TransmissionOnChange>False</TransmissionOnChange>
+    <TransmissionOnEvent>False</TransmissionOnEvent>
+    <Interval>T#500ms</Interval>
+    <MinGap>T#20ms</MinGap>
+    <EventVariable>
+    </EventVariable>
+    <ProtocolSettings>
+      <ProtocolSetting Name="Broadcast Adr." Value="10.0.0.10" />
+      <ProtocolSetting Name="Port" Value="1202" />
+    </ProtocolSettings>
+  </NetvarSettings>
+</GVL>
