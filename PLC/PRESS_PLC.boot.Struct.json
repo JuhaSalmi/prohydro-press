@@ -1569,6 +1569,36 @@
                   "Inputs": null,
                   "Outputs": null,
                   "StructuralItems": []
+                },
+                {
+                  "Name": "FB_EncoderHome",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.POUObject.POUObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "5ab1fb1c-2057-4c92-9a73-70b207788d49",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
+                },
+                {
+                  "Name": "FB_VacuumCtrl",
+                  "IconName": null,
+                  "EcadId": null,
+                  "TypeName": "_3S.CoDeSys.POUObject.POUObject",
+                  "Type": 0,
+                  "Id": null,
+                  "ModuleId": null,
+                  "Version": null,
+                  "ObjectGuid": "00651853-793e-4790-b934-b987e50b1f70",
+                  "SlotIndex": 0,
+                  "Inputs": null,
+                  "Outputs": null,
+                  "StructuralItems": []
                 }
               ]
             },
