@@ -1,12 +1,12 @@
 {
   "IsSynced": false,
   "SyncMode": 0,
-  "InSyncWithRuntime": true,
+  "InSyncWithRuntime": false,
   "ApplicationType": "plc",
   "Configuration": "appdata",
   "Solution": "DefaultSolution",
   "ControllerGuid": "d12bf2f4-4228-47ea-b4f1-ada896573de5",
-  "LastChange": 639165956895872813,
+  "LastChange": 639210772882613787,
   "MachineName": "THINKPAD-JUHA",
   "UserName": "JuhaSalmi",
   "ProjectCompleteFilename": "C:\\Projects\\Asiakas\\ProHydro\\TrailerRigg\\Press\\PLC\\PRESS_PLC.project",
@@ -50,7 +50,7 @@
   },
   "CompileinfoChecksum": null,
   "SyncDescription": false,
-  "DeviceId": "1001 0081",
+  "DeviceId": "1001 0080",
   "DeviceVersion": "3.6.3.0",
   "UseIoHierachy": true
 }
