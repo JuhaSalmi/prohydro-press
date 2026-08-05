@@ -22,7 +22,9 @@
   <NodeList>
     <Node name="Application">
       <Node name="HMI">
-        <Node name="Report" type="T_ReportStruct" access="ReadWrite" />
+        <Node name="Report" type="T_ReportStruct" access="ReadWrite">
+          <Comment />
+        </Node>
       </Node>
       <Node name="NodeRed">
         <Node name="Counter" type="T_INT" access="ReadWrite" />
