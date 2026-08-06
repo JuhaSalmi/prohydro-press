@@ -393,7 +393,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "8a583a14-151c-475a-ac29-d2c95fea8191",
+                      "ObjectGuid": "fdb1788a-f42a-49b3-93cd-a00bc7f509ec",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -424,7 +424,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "a393a783-f996-4693-8d01-68f860a0fd88",
+                      "ObjectGuid": "2efdefdb-9ce5-4ae7-81b3-bcbe6c5c2de2",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -2182,7 +2182,7 @@
                         },
                         {
                           "Id": 2952855583,
-                          "Name": "",
+                          "Name": "Application.DI_NP1_ValoverhoStatus",
                           "IecAddress": "%IX7.7",
                           "Description": "",
                           "Descriptions": []
@@ -2254,7 +2254,7 @@
                         },
                         {
                           "Id": 2952855575,
-                          "Name": "",
+                          "Name": "Application.DI_NP2_ValoverhoStatus",
                           "IecAddress": "%IX8.7",
                           "Description": "",
                           "Descriptions": []
@@ -2303,14 +2303,14 @@
                         },
                         {
                           "Id": 2952855582,
-                          "Name": "",
+                          "Name": "Application.DI_NP1_TurvaVaijeriStatus",
                           "IecAddress": "%IX9.6",
                           "Description": "",
                           "Descriptions": []
                         },
                         {
                           "Id": 2952855583,
-                          "Name": "",
+                          "Name": "Application.DI_NP2_TurvaVaijeriStatus",
                           "IecAddress": "%IX9.7",
                           "Description": "",
                           "Descriptions": []
@@ -2944,14 +2944,14 @@
                         },
                         {
                           "Id": 2952921118,
-                          "Name": "Application.DO_KETJUNOSTIN_1_2_ALAS",
+                          "Name": "Application.DO_KETJUNOSTIN_1_ALAS",
                           "IecAddress": "%QX7.6",
                           "Description": "",
                           "Descriptions": null
                         },
                         {
                           "Id": 2952921119,
-                          "Name": "Application.DO_KayTietoSahalinjalle",
+                          "Name": "Application.DO_KETJUNOSTIN_2_ALAS",
                           "IecAddress": "%QX7.7",
                           "Description": "",
                           "Descriptions": null
@@ -3023,7 +3023,7 @@
                         },
                         {
                           "Id": 2952921111,
-                          "Name": "",
+                          "Name": "Application.DO_ReleaseVacuumPump",
                           "IecAddress": "%QX8.7",
                           "Description": "",
                           "Descriptions": null
