@@ -1738,6 +1738,21 @@
                   ]
                 }
               ]
+            },
+            {
+              "Name": "Trace",
+              "IconName": null,
+              "EcadId": null,
+              "TypeName": "_3S.CoDeSys.TraceObject.TraceObject",
+              "Type": 0,
+              "Id": null,
+              "ModuleId": null,
+              "Version": null,
+              "ObjectGuid": "0cc06c85-4f72-4cdb-9913-bd5dc5f1f908",
+              "SlotIndex": 0,
+              "Inputs": null,
+              "Outputs": null,
+              "StructuralItems": []
             }
           ]
         }
