@@ -393,7 +393,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "277c77c0-3abc-4ec6-adc6-40dabe3d4357",
+                      "ObjectGuid": "b50d59e8-84fa-448d-8452-97497bb6806d",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -424,7 +424,7 @@
                       "Id": null,
                       "ModuleId": null,
                       "Version": null,
-                      "ObjectGuid": "8838725e-9af7-49ac-9546-92b8ad0817b4",
+                      "ObjectGuid": "4705e52e-792a-4a5e-94d4-99e4f98402f8",
                       "SlotIndex": 0,
                       "Inputs": null,
                       "Outputs": null,
@@ -2361,35 +2361,35 @@
                         },
                         {
                           "Id": 2952855572,
-                          "Name": "",
+                          "Name": "Application.DI_SahaKulj_Ohjaus_1",
                           "IecAddress": "%IX10.4",
                           "Description": "",
                           "Descriptions": []
                         },
                         {
                           "Id": 2952855573,
-                          "Name": "",
+                          "Name": "Application.DI_SahaKulj_Ohjaus_2",
                           "IecAddress": "%IX10.5",
                           "Description": "",
                           "Descriptions": []
                         },
                         {
                           "Id": 2952855574,
-                          "Name": "",
+                          "Name": "Application.DI_SahaKulj_Ohjaus_3",
                           "IecAddress": "%IX10.6",
                           "Description": "",
                           "Descriptions": []
                         },
                         {
                           "Id": 2952855575,
-                          "Name": "",
+                          "Name": "Application.DI_SahaKulj_Ohjaus_4",
                           "IecAddress": "%IX10.7",
                           "Description": "",
                           "Descriptions": []
                         },
                         {
                           "Id": 2952855576,
-                          "Name": "",
+                          "Name": "Application.DI_SahaKulj_Ohjaus_5",
                           "IecAddress": "%IX11.0",
                           "Description": "",
                           "Descriptions": []

@@ -1,6 +1,22 @@
-Id;Default
-0;NO_FRAME_DOWN
-1;NO_LIGHT_CURTAIN
-2;NO_SAFETY_SENSOR_BYPASS
-3;NO_RISK_OF_COLLISION
-;
+Id;Default;en;fi
+0;NO_SAFETY_SENSOR_BYPASS;Safety sensor bypassed;Turvavalokenno ohitettu
+1;NO_GLUING_MACHINE_AND_LAMINATE_BY_PASSED;Gluing machine and laminate machine bypassed;Liimakone tai laminoiti kone ohitettu
+2;NO_RISK_OF_COLLISION;Gluing machine: Risk of collision or communication loss;Liimakone: Törmaysvaara tai kommunikointi virhe
+3;NO_LOWER_FRAME_DOWN;Move the lower frame down;Laske alempi kehä
+4;NO_LAMINATE_NOT_HOMED;Laminate machine is not home position$T;Laminointi kone ei ole kotona
+5;NO_COMMUNICATION_ERROR;Gluing machine communication error;Liimakoneen kommunikointi virhe
+6;NO_LIGHT_CURTAIN;Estop or Lightcurtain interrupted;Valoverho tai hätäseis painettu
+7;NO_TABLE_WRONG_POSITION;Lift table wrong position;Nostopöytä väärässä paikassa
+8;NO_SELECT_CONVEYER;Not selected conveyer;Ei kuljetinta valittuna
+9;NO_END_LIMIT_ACTIVE;End limit active;Pääty raja aktiivnen
+10;NO_ESTOP_ACTIVE;E-Stop pressed;Hätäseis painettu
+11;NO_FRAME_IS_DOWN;Move frame up;Nosta kehä
+12;NO_CHAIN_HOST_COLLISION;Chain host, risk off collision$T;Ketjunostin edessä
+13;NO_LAMINATE_COM_ERROR;Laminate machine communication error;Laminaatti koneen yhteys virhe
+14;NO_LAMINATE_AUX_TROLLEY;Support trolley collision risk;Apuvaunu, törmäys riski
+15;NO_SAFETY_CABLE_NP_1;Table 1, safety cable disconnected;Nostopöytä 1, turvavaijeri irti
+16;NO_SAFETY_CABLE_NP_2;Table 2, safety cable disconnected;Nostopöytä 2, turvavaijeri irti
+17;NO_NP1_LIGHT_CURTAIN;Light curtain interrupted table 1;Valoverho katkaistu nostopöytä 1
+18;NO_NP2_LIGHT_CURTAIN;Light curtain interrupted table 2;Valoverho katkaistu nostopöytä 2
+19;NO_TABLE_MOVEMENT_ALARM;Table movement alarm;Nostopöytä liikkunut kesken ajon
+;;;

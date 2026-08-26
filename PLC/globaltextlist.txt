@@ -3,9 +3,8 @@ Id;Default;EN;FI
 918;%1.0f;%1.0f;
 455;%1.2f;;
 684;%d;%d;
-859;%f;%f;
-913;%F1.2;;
 393;%s;;
+456;%t[dd.MM.yyyy HH:mm];;
 419;+;;
 452;-;;
 799;2;;
@@ -13,39 +12,82 @@ Id;Default;EN;FI
 557;4;4;
 158;5;5;
 288;6;6;
-264;?;?;
 762;ALARMS;ALARMS;HÄLYTYKSET
-438;Auto stopped by safety light;;
-30;Auto stopped by table movement;;
-565;bar;;
-935;COMPRESSORS;;
+630;At sawing height;At sawing height;Sahauskorkeudella
+438;Auto stopped by safety light;Auto stopped by safety light; Valoverho 
+30;Auto stopped by table movement;Auto stopped by table movement;Pöydän liike pysäytti automaatin
+565;bar;bar;bar
+448;Both Backward;Both Backward;Molemmat taakse
+619;Both Forward;Both Forward;Molemmat eteen
+869;CANCEL;CANCEL;PERUUTA
+586;CHAIN HOIST;CHAIN HOIST;KETJUTALJA
+260;CLOSE;CLOSE;SULJE
+406;Close frame: %d?;Close frame: %d?;Sulje kehä: %d?
+935;COMPRESSORS;COMPRESSORS;KOMPRESSORIT
+483;Conveyor 1 Forward;Conveyor 1 Forward;Kuljetin 1 eteen
+1078;Conveyor 2 Forward;Conveyor 2 Forward;Kuljetin 2 eteen
+480;Date and time;Date and time;Päivä ja aika
+698;Discharge conveyor;Discharge conveyor;Poistokuljetin
+611;EXIT;EXIT;POISTU
+472;Fault;Fault;Vika
+361;Frame: CLOSED;Frame: CLOSED;Kehä: SULJETTU
+421;Frame: OPEN;Frame: OPEN;Kehä: AUKI
 723;FRAMES;FRAMES;KEHÄT
-223;GLUIN MACHINE OR LAMINATE BYPASS;GLUIN MACHINE OR LAMINATE BYPASS;
-727;Laser 1;;
-672;Laser 2;;
-108;LIGHT CURTAIN BYPASS;LIGHT CURTAIN BYPASS;
+223;GLUING MACHINE OR LAMINATE BYPASS;GLUING MACHINE OR LAMINATE BYPASS;LIIMAKONEEN TAI LAMINAATIN OHITUS
+724;Gluing height;Gluing height;Liimauskorkeus
+428;Go position;Go position;Aja asemaan
+306;Info;Info;Info
+677;Label;Label;Nimike
+120;Language;Language;Kieli
+727;Laser 1;Laser 1;Laser 1
+672;Laser 2;Laser 2;Laser 2
+108;LIGHT CURTAIN BYPASS;LIGHT CURTAIN BYPASS;VALOVERHON OHITUS
 643;MAIN;MAIN;ETUSIVU
 798;MANUAL;MANUAL;KÄSIAJO
-418;None;None;
-299;Press time missing;;
-38;RESET ALARMS;;
-510;SET VALUE;;
-101;START;;
+923;Manual commands;Manual commands;Käsikomennot
+11;min;min;min
+291;MODE:;MODE:;TILA:
+185;MODE: AUTO;MODE: AUTO;TILA: AUTO
+28;OP1;OP1;OP1
+47;OP2;OP2;OP2
+555;OPEN;OPEN;AVAA
+440;Open frame: %d?;Open frame: %d?;Avaa kehä: %d?
+981;Open time;Open time;Avausaika
+722;Override end limits;Override end limits;Ohita pääterajat
+461;Plate;Plate;Levy
+299;Press time missing;Press time missing;Puristusaika puuttuu
+972;Pressing time;Pressing time;Puristusaika
+179;Ready;Ready;Valmis
+38;RESET ALARMS;RESET ALARMS;KUITTAA HÄLYTYKSET
+564;RESET MANUAL MODE;RESET MANUAL MODE;NOLLAA KÄSIAJO
+922;Saw conveyor;Saw conveyor;Sahakuljetin
+475;Saw height;Saw height;Sahauskorkeus
+96;SET AUTO;SET AUTO;ASETA AUTO
+166;Set Home position;Set Home position;Aseta kotiasema
+510;SET VALUE;SET VALUE;ASETA ARVO
+409;Settings;Settings;Asetukset
+154;SETTINGS;SETTINGS;ASETUKSET
+101;START;START;KÄYNNISTÄ
 559;STOP;STOP;SEIS
-473;TABLE 1;TABLE 1;
-55;TABLE 2;TABLE 2;
-973;Tolerance;;
-33;Tolerance > 200mm ;;
-453;Tolerance > 200mm (Move manually!);;
-113;Tähän pitäää mahtua pitkä teksti joka on aika pitkä;;
-94;UP-LIMITS OVERRIDE;UP-LIMITS OVERRIDE;
-714;UP-LMITS OVERRIDE;UP-LMITS OVERRIDE;
+473;TABLE 1;TABLE 1;PÖYTÄ 1
+55;TABLE 2;TABLE 2;PÖYTÄ 2
+516;TABLE CONVEYOR END LIMITS OVERRIDE;TABLE CONVEYOR END LIMITS OVERRIDE;PÖYTÄKULJETTIMEN PÄÄTERAJOJEN OHITUS
+375;TELE 1 Backward;TELE 1 Backward;TELE 1 taakse
+16;TELE 1 Forward;TELE 1 Forward;TELE 1 eteen
+1029;TELE 1 Position;TELE 1 Position;TELE 1 asema
+933;TELE 2 Backward;TELE 2 Backward;TELE 2 taakse
+156;TELE 2 Forward;TELE 2 Forward;TELE 2 eteen
+490;TELE 2 Position;TELE 2 Position;TELE 2 asema
+963;Telescopes;Telescopes;Teleskoopit
+453;Tolerance > 200mm (Move manually!);Tolerance > 200mm (Move manually!);Toleranssi > 200mm (Siirrä käsin!)
+363;UP-LIMITS OVERRIDE;UP-LIMITS OVERRIDE;YLÄRAJOJEN OHITUS
 801;VACUUM;VACUUM;ALIPAINE
-738;Vacuum;;
-484;Vacuum 1;;
-531;Vacuum 2;;
-310;Vacuum 3;;
-245;Vacuum 4;;
-754;Vacuum 5;;
-52;Vacuum 6;;
-469;x;x;
+738;Vacuum;Vacuum;Alipaine
+531;Vacuum 2;Vacuum 2;Alipaine 2
+310;Vacuum 3;Vacuum 3;Alipaine 3
+245;Vacuum 4;Vacuum 4;Alipaine 4
+754;Vacuum 5;Vacuum 5;Alipaine 5
+52;Vacuum 6;Vacuum 6;Alipaine 6
+606;Vacuum times;Vacuum times;Alipaineajat
+498;VACUUM TIMES;VACUUM TIMES;ALIPAINEAJAT
+312;Velocity;Velocity;Nopeus

@@ -1,0 +1,3 @@
+Id;Default;fi;en
+5;;Autoajo mahdollista ohittamalla valvonta;Automatic mode available by bypassing supervision
+;;;
